@@ -1,4 +1,4 @@
-# link-between-covid19-and-air-pollutions
+# link between covid19 and air pollutions in England
 The aim of this project is to replicate the result of the paper _Link between covid19 and air pollution in England_ written by Marco Travaglio, Yizhou Yu, Rebeka Popovic, Liza Selley, Nuno Santos Leal, Luis Miguel Martins. The original analysis was manly performed in R while my project is entirely proposed in Python. 
 The paper studied the relationshipe between level of certain pollutants and mortality and infectivity of covid-19. The project is structured as follws:
 
